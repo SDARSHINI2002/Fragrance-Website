@@ -1,4 +1,4 @@
-Perfume Website
+Fragrance Website
 
 A simple and elegant Perfume Website built using HTML and CSS, featuring multiple sections including Home, Products, About, and Contact. This project is ideal for practicing front-end web development and creating a basic business-style layout.
 
